@@ -1,22 +1,16 @@
 import React,{Component} from 'react';
 import User from '../components/user'
-<<<<<<< HEAD
-=======
-
->>>>>>> derskeal-master
 
 class UserSettings extends Component {
 
    render() {
 	return(
-<<<<<<< HEAD
 
 	    <User>
 		 <div>
 		    Settings
 		 </div>
 	    </User>
-=======
 	   <User>
 		<div>
 		   <form>
@@ -68,7 +62,6 @@ class UserSettings extends Component {
 		   </form>
 		</div>
 	   </User>
->>>>>>> derskeal-master
 
 	)
    }
