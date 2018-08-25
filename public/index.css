@@ -70,3 +70,6 @@
     cursor: initial;
     /*width: -webkit-fill-available;*/
 }
+.center {
+    text-align: center;
+}
