@@ -51,6 +51,38 @@
     display: inline-block;
     top: -28%;
 }
+.imageCancel{
+    position: relative;
+    left: 13%;
+    z-index: 5;
+}
+/*medai query*/
+@media screen and (device-width: 360px){
+    .imageCancel{
+        left: 30%;
+    }
+}
+@media screen and (device-width: 320px){
+    .imageCancel{
+        left: 34% !important;
+    }
+}
+@media screen and (device-width: 600px){
+    .imageCancel{
+        left: 18%;
+    }
+}
+@media screen and (device-width: 1024px){
+    .imageCancel{
+        left: 11%;
+    }
+}
+@media screen  and (max-device-width: 415px){
+    .imageCancel{
+        left: 28%;
+    }
+}
+
 .fab{
     height: 50px;
     width: 50px;

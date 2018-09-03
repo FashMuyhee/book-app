@@ -14,8 +14,7 @@ class  Footer extends Component {
 		    <div className="container">
 			 <div className="credits">
 			   <span className="copyright align-content-center">
-				   &copy;{this.state.year}, Made with <i
-				 className="fa fa-heart heart"></i> Fash Muyhee
+				   &copy;{this.state.year}, Created by  Fash Muyhee
 			   </span>
 			 </div>
 		    </div>
